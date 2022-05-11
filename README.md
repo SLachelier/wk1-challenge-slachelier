@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Week 1 Challenge
 ## Refactored by Shauna Lachelier
 
 ### Description
